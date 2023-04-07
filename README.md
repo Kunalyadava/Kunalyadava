@@ -1,12 +1,10 @@
 ![logo](https://github.com/Kunalyadava/Kunalyadava/blob/main/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Ku Nal</h1>
 <h3 align="center">An aspiring Full Stack Developer from India.</h3>
-<img src=
-"https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
         alt="coding"
         width="400"
-        align="right">
+        align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalyadava&label=Profile%20views&color=0e75b6&style=flat" alt="kunalyadava" /> </p>
 
