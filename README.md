@@ -3,9 +3,8 @@
 ![logo](https://github.com/Kunalyadava/Kunalyadava/blob/main/full-stack-development.gif)
 
 <h1 align="center">Hi 👋, I'm Ku Nal</h1>
-<h3 align="center">An aspiring Full Stack Developer from India.</h3>
 <p align="center"> 
-  <a href="https://github.com/kunalyadava"><img src="https://readme-typing-svg.demolab.com?font=&color=%23F7008F&lines=Student+%2F+Developer+%2F+;%F0%9F%9A%80+An Aspiring+FullStack+Developer;%F0%9F%96%A5+Active+OpenSource+Contributor"></a>
+  <a href="https://github.com/kunalyadava"><img src="https://readme-typing-svg.demolab.com?font=&color=%23F7008F&lines=Student+%2F+Web-Developer+%2F+;%F0%9F%9A%80+An Aspiring+FullStack+Developer;%F0%9F%96%A5+Active+OpenSource+Contributor"></a>
 
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalyadava&" alt="kunalyadava" /></p>"
