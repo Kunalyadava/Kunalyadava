@@ -45,11 +45,3 @@
 <p align="center"> <img width="900em" src="https://github-readme-activity-graph.cyclic.app/graph?username=kunalyadava&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="KuNal's Github Graph" /> </p> 
 <h4 align="center">
 <!-- &hide=other -->
-<details>	
-  <summary><b>&#x23F2; Coding Activity over last 7 days</b></summary><br>
-  <p align="center">
-    <a href="#"><img src="https://wakatime.com/share/@kunalyadava/ec179c03-1544-4124-b524-7a30f74fdc5b.svg"></a>
-  </p>
-</details>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
