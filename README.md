@@ -1,10 +1,14 @@
 ![avento](https://user-images.githubusercontent.com/104050919/230783315-438c3860-d944-4344-966f-6d2e032fb8bc.gif)
+
 ![logo](https://github.com/Kunalyadava/Kunalyadava/blob/main/full-stack-development.gif)
+
 <h1 align="center">Hi 👋, I'm Ku Nal</h1>
 <h3 align="center">An aspiring Full Stack Developer from India.</h3>
 <img src="<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalyadava&" alt="kunalyadava" /></p>"
      
         alt="coding"
+       width="400"
+        align="right"
       />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalyadava&label=Profile%20views&color=0e75b6&style=flat" alt="kunalyadava" /> </p>
