@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left"> <a href="https://instagram.com/kunalkr_" target="blank"><img src="https://img.shields.io/instagram/follow/kunalkr_?logo=instagram&style=for-the-badge" alt="kunalkr_" /></a> </p>
  -->
-<a href="https://instagram.com/kunalkr_" target="blank"><img align="center" src="https://camo.githubusercontent.com/fb2fc7f44fb6836d88738af910490d8b7d29cfb974b461fed44ddfd551fc3234/68747470733a2f2f73332d65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f63656e746175722d77702f64657369676e7765656b2f70726f642f636f6e74656e742f75706c6f6164732f323031362f30352f31313137303033382f496e7374616772616d5f4c6f676f2d3130303278313030332e6a7067"  alt="KuNal"  height="30" width="40" /><h1>KuNal</h1> </a>
+<a href="https://instagram.com/kunalkr_" target="blank"><img align="center" src="https://camo.githubusercontent.com/fb2fc7f44fb6836d88738af910490d8b7d29cfb974b461fed44ddfd551fc3234/68747470733a2f2f73332d65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f63656e746175722d77702f64657369676e7765656b2f70726f642f636f6e74656e742f75706c6f6164732f323031362f30352f31313137303033382f496e7374616772616d5f4c6f676f2d3130303278313030332e6a7067"  alt="KuNal"  height="30" width="40"/>KuNal </a>
 
 
 ### Languages and Tools
