@@ -54,9 +54,23 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Github Actions](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![FreecodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
-
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalyadava&show_icons=true&locale=en&layout=compact" alt="kunalyadava" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalyadava&show_icons=true&locale=en" alt="kunalyadava" /></p>
 
 
+ -->
+ 
+### Github Stats:
+
+| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=kunalyadava&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalyadava&show_icons=true&locale=en&layout=compact&theme=radical" alt="Kunals's Most used lang" /> |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=kunalyadava&theme=radical" alt="kuNal's Streak" />                                           |  <img width="450em" align="center" alt="Kunals's Github stats"  src="https://github-readme-stats.vercel.app/api?username=kunalyadava&show_icons=true&count_private=true&theme=radical" />   |
+
+### Github contribution:
+
+<h4 align="center">My contribution graph</h4>
+
+<p align="center"> <img width="900em" src="https://github-readme-activity-graph.cyclic.app/graph?username=kunalyadava&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="KuNal's Github Graph" /> </p> 
+<h4 align="center">
