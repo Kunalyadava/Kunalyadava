@@ -23,6 +23,8 @@
 - 📄 Know about my skills [https://in.linkedin.com/in/kunal-kumar-8483b4241](https://in.linkedin.com/in/kunal-kumar-8483b4241)
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://instagram.com/kunalkr_" target="blank"><img src="https://img.shields.io/instagram/follow/kunalkr_?logo=instagram&style=for-the-badge" alt="kunalkr_" /></a> </p>
+
 
 ### Languages and Tools
 <div style="display: float">
