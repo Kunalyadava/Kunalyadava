@@ -4,13 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Ku Nal</h1>
 <h3 align="center">An aspiring Full Stack Developer from India.</h3>
-<img src="<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalyadava&" alt="kunalyadava" /></p>"
-     
-        alt="coding"
-       width="400"
-        align="right"
-      />
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalyadava&" alt="kunalyadava" /></p>"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalyadava&label=Profile%20views&color=0e75b6&style=flat" alt="kunalyadava" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalyadava" alt="kunalyadava" /></a> </p>
