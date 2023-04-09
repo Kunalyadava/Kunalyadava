@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://instagram.com/kunalkr_" target="blank"><img src="https://img.shields.io/instagram/follow/kunalkr_?logo=instagram&style=for-the-badge" alt="kunalkr_" /></a> </p>
 
-
+<a href="https://instagram.com/kunalkr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/kunalkr_/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="KuNal" height="30" width="40" /></a>
 ### Languages and Tools
 <div style="display: float">
 <img alt="HTML5"  src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" /> 
