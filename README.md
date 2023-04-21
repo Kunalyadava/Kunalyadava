@@ -64,6 +64,7 @@
 </p>
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
+![profile-south-season-animate](https://user-images.githubusercontent.com/104050919/233741872-8919fdc5-1e0d-42a6-9c94-4970fd2cfb90.svg)
 
 
 
