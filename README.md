@@ -25,10 +25,45 @@
 
 - 📄 Know about my skills [https://in.linkedin.com/in/kunal-kumar-8483b4241](https://in.linkedin.com/in/kunal-kumar-8483b4241)
 
-<h2 align="left">Connect with me:</h2>
-<!-- <p align="left"> <a href="https://instagram.com/kunalkr_" target="blank"><img src="https://img.shields.io/instagram/follow/kunalkr_?logo=instagram&style=for-the-badge" alt="kunalkr_" /></a> </p>
- -->
-<a href="https://instagram.com/kunalkr_" target="blank"><img align="center" src="https://camo.githubusercontent.com/fb2fc7f44fb6836d88738af910490d8b7d29cfb974b461fed44ddfd551fc3234/68747470733a2f2f73332d65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f63656e746175722d77702f64657369676e7765656b2f70726f642f636f6e74656e742f75706c6f6164732f323031362f30352f31313137303033382f496e7374616772616d5f4c6f676f2d3130303278313030332e6a7067"  alt="KuNal"  height="30" width="40"/>KuNal </a>
+
+
+ 
+<div align="left"><h2 > 🌐 Socials</h2> 
+  <p align="left"></p>
+<img align="left" width="70" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"/>
+<br/>
+ 
+<p align="left">
+<a href = "https://www.linkedin.com/in/kunal-kumar-8483b4241/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href = "https://www.instagram.com/kunalkr_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href = "kunalkr1857@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.canva.com/design/DAFdvVX-wXE/bbLfLChdl8P_VJIqqf_JjA/edit?utm_content=DAFdvVX-wXE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" target="_blank" alt="resume"/></a>
+</p>
+   </div>                                                                                                              
+ <br/>   
+ 
+ 
+ </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Languages and Tools
