@@ -23,8 +23,6 @@
 
 - 📫 How to reach me **Kunalkr1857@gmail.com**
 
-- 📄 Know about my skills [https://in.linkedin.com/in/kunal-kumar-8483b4241](https://in.linkedin.com/in/kunal-kumar-8483b4241)
-
 
 
  
