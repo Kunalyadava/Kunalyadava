@@ -90,10 +90,9 @@
 <h4 align="center">My contribution graph</h4>
 
 
+<h2 align='center'><i><a href="https://github.com/kunalyadava/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <p align="center">
-<a href="https://github.com/kunalyadava/github-readme-activity-graph">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunalyadava&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="185">
+<a href="https://github.com/unalyadava/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalyadava&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
-</p>
-
 
