@@ -89,6 +89,11 @@
 
 <h4 align="center">My contribution graph</h4>
 
-<p align="center"> <img width="900em"src="https://github-readme-activity-graph.cyclic.app/graph?username=kunalyadava&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="KuNal's Github Graph"/> </p> 
-<h4 align="center">
+
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunalyadava&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="185">
+</a>
+</p>
+
 
