@@ -91,7 +91,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/kunalyadava/github-readme-activity-graph">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kunalyadava&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="185">
 </a>
 </p>
