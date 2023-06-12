@@ -1,4 +1,4 @@
-![avento](https://user-images.githubusercontent.com/104050919/230783315-438c3860-d944-4344-966f-6d2e032fb8bc.gif)
+
 
 ![logo](https://github.com/Kunalyadava/Kunalyadava/blob/main/full-stack-development.gif)
 
