@@ -35,7 +35,7 @@
 <a href = "https://www.linkedin.com/in/kunal-kumar-8483b4241/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <a href = "kunalkr1857@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.canva.com/design/DAFmGcOId_s/W_F51u7UwQK_wo8JrD9I7g/view?utm_content=DAFmGcOId_s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" target="_blank" alt="resume"/></a>
+
 </p>
    </div>                                                                                                              
  <br/>   
